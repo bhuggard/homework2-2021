@@ -21,3 +21,54 @@ p{
     font-size: 24px;
     padding-top: 25px;   
 }
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+}
+
+div{
+    height: 150px, auto;
+    padding-top: 25px;
+    padding-right: 25px;
+    padding-bottom: 25px;
+    padding-left: 25px;
+     
+}
+
+#red{
+    background-color: #FF0000;
+    text-align: right;
+}
+
+#blue{
+    background-color: #0000FF;
+    text-align: left;
+
+}
+
+#yellow{
+    background-color: #FFFF00;
+    text-align: right;
+    
+}
+#yellow h2 p{
+    color: #000000;
+    text-shadow: #c7e2c7;
+
+}
+
+#green{
+    background-color: #008000;
+    text-align: left;
+}
+
+/* Paragraphs within the footer have text that is centered with 10px padding on the bottom and right only. 
+(No padding on the left or top.) */
+footer p{
+    text-align: center;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
