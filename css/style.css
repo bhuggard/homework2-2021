@@ -1,0 +1,18 @@
+h1{
+ font-size: 64px;
+ padding: 10px;
+ text-align: center;
+
+}
+
+h2{
+    font-size: 32px;
+    color: (#808080);
+    text-shadow: 4px, 4px, 2px;
+}
+
+p{
+    font-size: 24px;
+    padding-top: 25px;
+    
+}
