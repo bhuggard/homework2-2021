@@ -1,3 +1,9 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #000000;
+    color: #ffffff;
+}
+
 h1{
  font-size: 64px;
  padding: 10px;
@@ -13,6 +19,5 @@ h2{
 
 p{
     font-size: 24px;
-    padding-top: 25px;
-    
+    padding-top: 25px;   
 }
